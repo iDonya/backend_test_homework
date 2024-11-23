@@ -1,4 +1,6 @@
 # Игнорировать все файлы с расширением .doc
 *.doc 
+# Игнорировать файл side.txt в директории build.
+build/side.txt
 # Игнорировать файл README.md.
 README.md
